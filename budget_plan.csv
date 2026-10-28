@@ -1,0 +1,7 @@
+campaign,proposed_spend,expected_trials,expected_payers,expected_net_rev,implied_roas,scale_vs_hist,dim_factor
+mt_broad_aoa,2800000,12439,3842,1562489,0.56,1.33,0.95
+gg_uac_actions,2500000,9530,3200,1477658,0.59,1.8,0.85
+gg_uac_installs,1800000,8129,2204,803771,0.45,0.95,1.0
+mt_retarget_paywall,1200000,6413,2278,1115023,0.93,2.34,0.85
+mt_lookalike_3pct,1200000,13589,1907,535822,0.45,0.65,1.0
+sc_feed_video,500000,2793,601,171283,0.34,0.67,1.0
